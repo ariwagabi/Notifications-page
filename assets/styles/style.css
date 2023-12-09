@@ -29,17 +29,17 @@
 
 @font-face {
   font-family: myFont;
-  src: url(assets/fonts/static/PlusJakartaSans-Medium.ttf);
+  src: url(PlusJakartaSans-Medium.ttf);
 }
 
 @font-face {
   font-family: myBoldFont;
-  src: url(assets/fonts/static/PlusJakartaSans-ExtraBold.ttf);
+  src: url(PlusJakartaSans-ExtraBold.ttf);
 }
 
 @font-face {
   font-family: myFontVariant;
-  src: url(assets/fonts/PlusJakartaSans-VariableFont_wght.ttf)
+  src: url(PlusJakartaSans-VariableFont_wght.ttf)
 }
 
 html
